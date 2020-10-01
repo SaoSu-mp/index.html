@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'GreatHorKhamYangon';
+  src: url('GreatHorKhamYangon.ttf') format('truetype'),
+       url('GreatHorKhamYangon.woff') format('woff'),
+       url('GreatHorKhamYangon.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
